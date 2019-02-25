@@ -1,0 +1,74 @@
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\TodoSqlite.Droid.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\TodoSqlite.Droid.pdb
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\TodoSqlite.Droid.apk
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\TodoSqlite.Droid-Signed.apk
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\FormsViewGroup.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Microsoft.Practices.Unity.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Newtonsoft.Json.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\SQLite.Net.Async.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\SQLite.Net.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\TodoSqlite.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\TodoSqlite.pdb
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Microsoft.Practices.Unity.xml
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Newtonsoft.Json.xml
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\TodoSqlite.Droid.csprojResolveAssemblyReference.cache
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\TodoSqlite.Droid.csproj.CoreCompileInputs.cache
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\TodoSqlite.Droid.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\TodoSqlite.Droid.pdb
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\android\bin\TodoSqlite.Droid.apk
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\drawable\icon.png
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\layout\tabbar.xml
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\layout\toolbar.xml
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\values\styles.xml
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\drawable\check.png
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\drawable\check2x.png
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\res\drawable\plus.png
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\R.cs.flag
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\obj\Debug\uploadflags.txt
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite.Droid\bin\Debug\TodoSqlite.Droid.dll
+C:\temp\campusMVP-Xamarin-Ejemplos-TODOS\08-Datos locales\TodoSqlite\TodoSqlite\TodoSqlite\bin\Debug\TodoSqlite.dll
+bin\Debug\TodoSqlite.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\TodoSqlite.Droid.dll.mdb
+obj\Debug\linksrc\Microsoft.Practices.ServiceLocation.dll.mdb
+obj\Debug\linksrc\TodoSqlite.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
